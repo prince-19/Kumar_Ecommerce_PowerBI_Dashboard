@@ -3,6 +3,8 @@
 ## Project Objective
 Owner of Kumar Industries wants us to help them create a dashboard to track and analyze their online sales across India.
 
+![Kumar Ecommerce Dashboard](https://github.com/user-attachments/assets/43e7be9b-4d99-4151-ac17-4913bcc7da2d)
+
 ## Project Learnings
   - Created interactive dashboard to track and analyze online sales data.
   - Used complex parameters to drill down in worksheet and customization using filters and slicers.
